@@ -2,6 +2,10 @@
 
 import scrapy
 from scrapy.http import Request
+from selenium import webdriver
+from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
+from scrapy.selector import Selector
+import time
 
 
 class Facebook(scrapy.Spider):
@@ -14,6 +18,10 @@ class Facebook(scrapy.Spider):
         yield Request(url, callback=self.parse, method=method, headers=headers)
 
     def parse(self, response):
-        for content in response.css('body'):
-            # yield {'text': content.xpath('//form[@id="login_form"]').extract_first() }
-            self.login_form = content.xpath('//form[@id="login_form"]').xpath('//table').extract()
+        # yield {'text': content.xpath('//form[@id="login_form"]').extract_first() }
+        binary = FirefoxBinary('/usr/lib/firefox/firefox')
+        self.driver = webdriver.Firefox(firefox_binary=binary)
+        self.driver.get(response.url)
+        time.sleep(10)
+        content = Selector(text=self.driver.page_source)
+        yield { 'Html': content.xpath('//form[@id="login_form"]').xpath('//table').extract() }
