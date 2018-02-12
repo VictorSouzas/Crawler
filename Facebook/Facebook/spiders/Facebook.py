@@ -15,4 +15,4 @@ class Facebook(scrapy.Spider):
 
     def parse(self, response):
         for title in response.css('body'):
-            yield {'text': title.css('form#login_form').extract()}
+            yield {'text': title.xpath('//form[@id="login_form"]').extract()}
