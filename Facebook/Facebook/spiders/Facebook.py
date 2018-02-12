@@ -14,5 +14,6 @@ class Facebook(scrapy.Spider):
         yield Request(url, callback=self.parse, method=method, headers=headers)
 
     def parse(self, response):
-        for title in response.css('body'):
-            yield {'text': title.xpath('//form[@id="login_form"]').extract()}
+        for content in response.css('body'):
+            # yield {'text': content.xpath('//form[@id="login_form"]').extract_first() }
+            self.login_form = content.xpath('//form[@id="login_form"]').xpath('//table').extract()
