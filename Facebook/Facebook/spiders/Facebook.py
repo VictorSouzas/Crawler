@@ -1,21 +1,18 @@
 # -*- coding: utf-8 -*-
 
 import scrapy
+from scrapy.http import Request
 
 
-class FacebookSpider(scrapy.Spider):
+class Facebook(scrapy.Spider):
     name = "facebook"
-    start_urls = [
-        'http://facebook.com/',
-    ]
+
+    def start_requests(self):
+        url = 'http://facebook.com'
+        method = 'GET'
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0'}
+        yield Request(url, callback=self.parse, method=method, headers=headers)
 
     def parse(self, response):
-        for quote in response.css('table'):
-            yield {
-                'text': table.css('span.text::text').extract_first(),
-                'author': quote.xpath('span/small/text()').extract_first(),
-            }
-
-        next_page = response.css('li.next a::attr("href")').extract_first()
-        if next_page is not None:
-            yield response.follow(next_page, self.parse)
+        for title in response.css('body'):
+            yield {'text': title.css('form#login_form').extract()}
