@@ -2160,3 +2160,2575 @@ JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js,
 (firefox:25800): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
 (firefox:25800): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518550815052	geckodriver	INFO	geckodriver 0.19.1
+1518550815076	geckodriver	INFO	Listening on 127.0.0.1:58725
+1518550816252	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ah7JHPqOQpFV"
+1518550818949	Marionette	INFO	Enabled via --marionette
+
+(firefox:5825): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5825): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5825): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5889): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5889): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5889): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518550824042	Marionette	INFO	Listening on port 48222
+1518550824219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518550824280	Marionette	DEBUG	Register listener.js for window 2147483649
+1518550825454	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518550826356	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518550826357	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518550827381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518550828401	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518550829682	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518550829929	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518550831362	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518550831366	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518550831914	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518550831915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518550831915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518550833305	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518550834853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518550835357	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518550836200	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518550838549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518550840855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518551089658	geckodriver	INFO	geckodriver 0.19.1
+1518551089663	geckodriver	INFO	Listening on 127.0.0.1:56830
+1518551089834	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3yCfKktVik6g"
+1518551091915	Marionette	INFO	Enabled via --marionette
+
+(firefox:6192): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6192): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6192): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6245): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6245): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6245): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518551096904	Marionette	INFO	Listening on port 51287
+1518551097223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518551097288	Marionette	DEBUG	Register listener.js for window 2147483649
+1518551098172	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518551099132	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518551099132	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518551100555	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518551102469	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518551103528	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518551103770	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518551105093	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518551105099	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518551105457	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518551105457	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518551105458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518551106380	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518551108309	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518551108574	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518551108805	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518551111182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518551113803	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6192): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6192): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6192): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6192): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6192): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6192): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6192): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 5889, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Pl92Pi/firefox-57.0.3+linuxmint1+rosa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+(firefox:5825): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5825): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5825): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5825): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5825): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5825): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5825): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518551245698	geckodriver	INFO	geckodriver 0.19.1
+1518551245702	geckodriver	INFO	Listening on 127.0.0.1:51796
+1518551245983	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.V7SzL2V56mgl"
+1518551249251	Marionette	INFO	Enabled via --marionette
+
+(firefox:6452): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6452): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6452): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6509): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6509): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6509): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518551254913	Marionette	INFO	Listening on port 49098
+1518551254933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518551255051	Marionette	DEBUG	Register listener.js for window 2147483649
+1518551256189	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518551257068	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518551257069	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518551257950	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518551259471	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518551259725	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518551260871	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518551260875	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518551261558	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1518551261558	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518551261559	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518551261559	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518551261560	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518551261971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518551264441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518551265791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1518551265863	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518551268165	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518551270504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518551502123	geckodriver	INFO	geckodriver 0.19.1
+1518551502127	geckodriver	INFO	Listening on 127.0.0.1:50527
+1518551503296	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FuC4JxDeDz8c"
+1518551504031	Marionette	INFO	Enabled via --marionette
+
+(firefox:6802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6856): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6856): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6856): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518551509007	Marionette	INFO	Listening on port 43389
+1518551509026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518551509104	Marionette	DEBUG	Register listener.js for window 2147483649
+1518551509658	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518551510527	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518551510528	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518551511738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518551512916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518551514097	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518551514349	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518551515932	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518551515936	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518551516329	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518551516330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518551516330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518551517408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518551519355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518551523515	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518551525984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518551528451	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518551648818	geckodriver	INFO	geckodriver 0.19.1
+1518551648822	geckodriver	INFO	Listening on 127.0.0.1:35339
+1518551650086	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VZ7A8eQZgGtN"
+1518551654679	Marionette	INFO	Enabled via --marionette
+
+(firefox:7077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:7142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:7142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:7142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518551660873	Marionette	INFO	Listening on port 57400
+1518551661053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518551661117	Marionette	DEBUG	Register listener.js for window 2147483649
+1518551662364	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518551663451	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518551663452	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518551665628	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518551666927	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518551668065	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518551668312	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518551669560	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518551669564	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518551669954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518551669955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518551669956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518551670866	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518551673085	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518551674166	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518551674382	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518551677140	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1518551677141	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1518551677362	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518551682202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518551980310	geckodriver	INFO	geckodriver 0.19.1
+1518551980365	geckodriver	INFO	Listening on 127.0.0.1:44364
+1518551983176	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RVRAX2UnBxMp"
+1518552008906	Marionette	INFO	Enabled via --marionette
+
+(firefox:7505): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7505): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7505): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:7594): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:7594): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518552035163	Marionette	INFO	Listening on port 38798
+
+(/usr/lib/firefox/firefox:7594): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518552035916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518552036223	Marionette	DEBUG	Register listener.js for window 2147483649
+1518552040769	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518552041715	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518552041715	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518552049551	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518552051313	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518552052366	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518552052681	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518552054004	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518552054010	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518552054284	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518552054285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518552054285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518552054767	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/login.php?login_attempt=1&lwv=110"
+1518552055892	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1518552056682	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/login.php?login_attempt=1&lwv=110"
+
+** (firefox:7077): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+
+** (firefox:6452): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
+
+(firefox:7505): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7505): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7505): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7505): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7505): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7505): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7505): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518552273494	geckodriver	INFO	geckodriver 0.19.1
+1518552273498	geckodriver	INFO	Listening on 127.0.0.1:54124
+1518552274791	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2WgESfsQmMK1"
+1518552280518	Marionette	INFO	Enabled via --marionette
+
+(firefox:7876): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7876): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7876): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:7938): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:7938): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:7938): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518552285641	Marionette	INFO	Listening on port 36951
+1518552285876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518552285941	Marionette	DEBUG	Register listener.js for window 2147483649
+1518552286416	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518552287274	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518552287275	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518552287956	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518552289080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518552290443	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518552290694	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518552291931	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518552291936	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518552292180	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/login.php?login_attempt=1&lwv=110"
+1518552292181	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518552292181	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518552292182	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518552293471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1518552294218	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/login.php?login_attempt=1&lwv=110"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:7876): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7876): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7876): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7876): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7876): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7876): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7876): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518552319395	geckodriver	INFO	geckodriver 0.19.1
+1518552319402	geckodriver	INFO	Listening on 127.0.0.1:38303
+1518552320557	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KMYkQn6oR3kZ"
+1518552321287	Marionette	INFO	Enabled via --marionette
+
+(firefox:8037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:8090): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:8090): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:8090): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518552324478	Marionette	INFO	Listening on port 39419
+1518552324744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518552324818	Marionette	DEBUG	Register listener.js for window 2147483649
+1518552325045	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518552326059	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518552326059	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518552327799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518552329056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518552330172	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518552330457	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518552332151	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518552332155	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518552333939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518552333940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518552333941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518552334138	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518552337259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518552337303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518552337441	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518552339791	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518552342208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518552463833	geckodriver	INFO	geckodriver 0.19.1
+1518552463837	geckodriver	INFO	Listening on 127.0.0.1:51243
+1518552464319	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QBK6ckPjzgMn"
+1518552468024	Marionette	INFO	Enabled via --marionette
+
+(firefox:8293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:8352): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:8352): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:8352): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518552473855	Marionette	INFO	Listening on port 56571
+1518552473999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518552474062	Marionette	DEBUG	Register listener.js for window 2147483649
+1518552476799	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518552478382	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518552478382	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518552480692	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518552482078	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518552483221	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518552483500	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518552485353	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518552485357	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518552485633	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/login.php?login_attempt=1&lwv=110"
+1518552485635	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518552485649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518552485650	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518552487321	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1518552488139	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/login.php?login_attempt=1&lwv=110"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+
+(firefox:8293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8293): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518552649097	geckodriver	INFO	geckodriver 0.19.1
+1518552649111	geckodriver	INFO	Listening on 127.0.0.1:40806
+1518552650470	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9yhCPeZtqJEJ"
+1518552656117	Marionette	INFO	Enabled via --marionette
+
+(firefox:9290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9471): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9471): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9471): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518552676421	Marionette	INFO	Listening on port 58881
+1518552677420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518552677487	Marionette	DEBUG	Register listener.js for window 2147483649
+1518552682802	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518552683793	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518552683793	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518552686620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518552687405	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518552687815	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518552689514	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518552689518	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518552689938	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1518552689939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518552689940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518552689941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518552689941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518552691047	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518552697037	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518552697850	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1518552697935	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518552700813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518552704496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:8037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518552890708	geckodriver	INFO	geckodriver 0.19.1
+1518552890725	geckodriver	INFO	Listening on 127.0.0.1:53558
+1518552891990	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HPlqYkpKpGfL"
+1518552908933	Marionette	INFO	Enabled via --marionette
+
+(firefox:9735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518552927920	Marionette	INFO	Listening on port 48965
+1518552927980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518552928047	Marionette	DEBUG	Register listener.js for window 2147483649
+1518552934615	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518552935798	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518552935799	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+[Parent 9735, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-Pl92Pi/firefox-57.0.3+linuxmint1+rosa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1518552942995	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518552946076	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518552952208	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518552952562	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518552955438	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518552955445	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518552955908	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518552955909	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518552955910	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518552956678	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518552962289	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518552962603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518552963141	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518552966918	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518552969473	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+ExceptionHandler::GenerateDump cloned child 9921ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+[Parent 6452, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-Pl92Pi/firefox-57.0.3+linuxmint1+rosa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+
+(firefox:6452): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6452): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6452): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6452): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6452): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6452): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6452): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518553087478	geckodriver	INFO	geckodriver 0.19.1
+1518553087482	geckodriver	INFO	Listening on 127.0.0.1:56190
+1518553087635	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.H9Cup5kjERUw"
+1518553088574	Marionette	INFO	Enabled via --marionette
+
+(firefox:10029): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10029): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10029): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10082): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10082): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10082): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518553093582	Marionette	INFO	Listening on port 46999
+1518553093652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518553093720	Marionette	DEBUG	Register listener.js for window 2147483649
+1518553093943	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518553094872	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518553094872	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518553095477	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518553096400	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518553097594	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518553097827	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518553099019	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518553099024	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518553099403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518553099403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518553099404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518553100196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518553101863	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518553102205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518553102404	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518553104711	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518553107079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518553208677	geckodriver	INFO	geckodriver 0.19.1
+1518553208685	geckodriver	INFO	Listening on 127.0.0.1:41476
+1518553209832	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.do8nq6xc1kDR"
+1518553211483	Marionette	INFO	Enabled via --marionette
+
+(firefox:10262): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10262): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10262): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10316): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10316): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10316): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 10316, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Pl92Pi/firefox-57.0.3+linuxmint1+rosa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 0 flags 00 path /usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache
+
+(/usr/lib/firefox/firefox:10316): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'DejaVu Sans 10.072265625'
+
+(/usr/lib/firefox/firefox:10316): Pango-WARNING **: font_face status is: out of memory
+
+(/usr/lib/firefox/firefox:10316): Pango-WARNING **: scaled_font status is: out of memory
+
+(/usr/lib/firefox/firefox:10316): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='DejaVu Sans 10.072265625', text='The quick brown fox jumps over the lazy dog.'
+
+(firefox:10029): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10029): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10029): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10029): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10029): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10029): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10029): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518553231437	geckodriver	INFO	geckodriver 0.19.1
+1518553231443	geckodriver	INFO	Listening on 127.0.0.1:32891
+1518553232583	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5T909zlu0GYu"
+1518553233318	Marionette	INFO	Enabled via --marionette
+
+(firefox:10372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10426): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10426): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10426): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518553236775	Marionette	INFO	Listening on port 54090
+1518553236803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518553236871	Marionette	DEBUG	Register listener.js for window 2147483649
+1518553237119	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518553238032	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518553238032	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518553238976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518553240091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518553241303	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518553241536	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518553242927	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518553242931	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518553243387	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/login.php?login_attempt=1&lwv=110"
+1518553243389	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518553243389	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518553243391	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518553244126	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/login.php?login_attempt=1&lwv=110"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:10372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518553274219	geckodriver	INFO	geckodriver 0.19.1
+1518553274224	geckodriver	INFO	Listening on 127.0.0.1:36417
+1518553275382	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9ZxU6YaJ1Oy7"
+1518553276151	Marionette	INFO	Enabled via --marionette
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10811): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10811): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10811): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518553279448	Marionette	INFO	Listening on port 58512
+1518553279498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518553279600	Marionette	DEBUG	Register listener.js for window 2147483649
+1518553279819	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518553281378	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518553281378	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518553282501	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518553283504	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518553284670	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1518553287053	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518553287297	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518553288780	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518553288784	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518553289093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518553289094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518553289095	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518553290485	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518553292130	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518553292542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518553292987	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518553295294	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518553297779	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518553518692	geckodriver	INFO	geckodriver 0.19.1
+1518553518697	geckodriver	INFO	Listening on 127.0.0.1:50941
+1518553518946	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZSw23RAIaDi5"
+1518553522961	Marionette	INFO	Enabled via --marionette
+
+(firefox:11948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:12028): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:12028): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:12028): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518553529408	Marionette	INFO	Listening on port 47614
+1518553529511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518553529588	Marionette	DEBUG	Register listener.js for window 2147483649
+1518553531117	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518553532384	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518553532384	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518553533459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518553534415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518553536429	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518553536659	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518553538148	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518553538151	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518553539421	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518553539421	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518553539421	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518553540654	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518553542365	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518553542726	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518553545051	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518553547375	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:11948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518554130622	geckodriver	INFO	geckodriver 0.19.1
+1518554130724	geckodriver	INFO	Listening on 127.0.0.1:38588
+1518554131921	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8gFf1uG7xek3"
+1518554137058	Marionette	INFO	Enabled via --marionette
+
+(firefox:13731): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13731): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13731): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13795): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13795): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13795): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518554146143	Marionette	INFO	Listening on port 47467
+1518554146180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518554146302	Marionette	DEBUG	Register listener.js for window 2147483649
+1518554148664	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518554149659	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518554149660	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+[Parent 13731, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-Pl92Pi/firefox-57.0.3+linuxmint1+rosa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1518554150891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518554152452	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518554153824	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518554154119	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518554155672	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518554155674	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518554156193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518554156195	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518554156197	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518554157078	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518554162735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518554163318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518554163948	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518554166442	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518554225104	geckodriver	INFO	geckodriver 0.19.1
+1518554225258	geckodriver	INFO	Listening on 127.0.0.1:59080
+1518554227685	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eoFxym282p8U"
+
+(firefox:13731): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13731): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13731): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13731): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13731): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13731): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13731): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518554251552	Marionette	INFO	Enabled via --marionette
+
+(firefox:13950): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13950): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13950): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14034): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14034): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14034): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518554265269	Marionette	INFO	Listening on port 60572
+1518554265527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518554265593	Marionette	DEBUG	Register listener.js for window 2147483649
+1518554270648	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518554271527	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518554271528	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518554274297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518554275549	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518554276689	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518554276978	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518554278576	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518554278579	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518554279300	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518554279300	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518554279301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518554280139	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518554284380	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518554285099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518554285204	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518554287670	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518554290671	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518554421141	geckodriver	INFO	geckodriver 0.19.1
+1518554421155	geckodriver	INFO	Listening on 127.0.0.1:43400
+1518554422439	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bpfp3b0zW1Jx"
+1518554431652	Marionette	INFO	Enabled via --marionette
+
+(firefox:14306): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14306): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14306): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518554450419	Marionette	INFO	Listening on port 57793
+
+(/usr/lib/firefox/firefox:14369): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14369): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518554451053	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14369): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518554451844	Marionette	DEBUG	Register listener.js for window 2147483649
+1518554462685	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518554464281	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518554464281	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518554466098	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518554467265	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518554467688	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518554467743	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518554468866	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518554468869	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518554469662	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1518554469662	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518554469664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518554469665	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518554469714	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518554483686	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1518554485624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1518554485732	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518554489278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518554492188	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:13950): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13950): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13950): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13950): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13950): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13950): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13950): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14306): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14306): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14306): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14306): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14306): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14306): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14306): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518554996320	geckodriver	INFO	geckodriver 0.19.1
+1518554996324	geckodriver	INFO	Listening on 127.0.0.1:33024
+1518554997626	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bI6CO20ndSC0"
+1518555004846	Marionette	INFO	Enabled via --marionette
+
+(firefox:14914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14978): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14978): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14978): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518555012619	Marionette	INFO	Listening on port 52859
+1518555012773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518555012845	Marionette	DEBUG	Register listener.js for window 2147483649
+1518555014012	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518555014978	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518555014979	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518555017335	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518555018481	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518555020056	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518555020321	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518555021960	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518555021965	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518555023078	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518555023079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518555023080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518555023578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518555025929	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518555026161	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518555026528	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518555029074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518555031699	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:14914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518555137766	geckodriver	INFO	geckodriver 0.19.1
+1518555137781	geckodriver	INFO	Listening on 127.0.0.1:54558
+1518555139018	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FzFQwQxgLaUJ"
+1518555144044	Marionette	INFO	Enabled via --marionette
+
+(firefox:15170): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15170): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15170): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15235): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15235): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15235): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518555151270	Marionette	INFO	Listening on port 45446
+1518555151460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518555151524	Marionette	DEBUG	Register listener.js for window 2147483649
+1518555152946	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518555153872	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518555153873	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518555156059	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518555158331	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518555159508	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518555159740	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518555161296	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518555161299	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518555162404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518555162405	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518555162405	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518555162864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518555164258	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518555165048	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518555166287	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518555169103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518555172153	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:15170): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15170): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15170): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15170): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15170): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15170): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15170): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518555307856	geckodriver	INFO	geckodriver 0.19.1
+1518555308015	geckodriver	INFO	Listening on 127.0.0.1:57411
+1518555310525	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0Sh3xLaLU0Ij"
+1518555317996	Marionette	INFO	Enabled via --marionette
+
+(firefox:15459): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15459): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15459): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15522): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15522): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15522): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518555325213	Marionette	INFO	Listening on port 45083
+1518555325311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518555325382	Marionette	DEBUG	Register listener.js for window 2147483649
+1518555326605	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518555327503	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518555327503	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518555329443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518555330433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518555332019	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518555332312	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518555333781	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518555333785	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518555334813	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518555334814	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518555334814	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518555334833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518555338710	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518555339030	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518555339136	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518555341896	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518555349845	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518555452717	geckodriver	INFO	geckodriver 0.19.1
+1518555452785	geckodriver	INFO	Listening on 127.0.0.1:55933
+1518555454024	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Mi0lyoF70ml1"
+1518555471596	Marionette	INFO	Enabled via --marionette
+
+(firefox:15752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15824): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15824): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15824): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518555489262	Marionette	INFO	Listening on port 44010
+1518555489679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518555489751	Marionette	DEBUG	Register listener.js for window 2147483649
+1518555496706	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518555498018	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518555498018	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518555499810	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518555501125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518555502273	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518555502584	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518555504095	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518555504098	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518555505086	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518555505086	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518555505086	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518555505754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518555514622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518555515584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518555515716	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518555519154	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518555521818	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:15752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+ExceptionHandler::GenerateDump cloned child 16137
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+
+(firefox:15459): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15459): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15459): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15459): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15459): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15459): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15459): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518557029155	geckodriver	INFO	geckodriver 0.19.1
+1518557029160	geckodriver	INFO	Listening on 127.0.0.1:50085
+1518557030440	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UgwsfmqtaRgX"
+1518557035177	Marionette	INFO	Enabled via --marionette
+
+(firefox:17275): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17275): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17275): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17335): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17335): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17335): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518557040989	Marionette	INFO	Listening on port 46157
+1518557041096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518557041168	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:17275): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17275): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17275): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17275): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17275): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17275): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17275): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518557210189	geckodriver	INFO	geckodriver 0.19.1
+1518557210192	geckodriver	INFO	Listening on 127.0.0.1:54295
+1518557211344	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AAwMeejnQzQh"
+1518557212017	Marionette	INFO	Enabled via --marionette
+
+(firefox:17541): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17541): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17541): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17594): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17594): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17594): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518557215386	Marionette	INFO	Listening on port 45348
+1518557215458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518557215525	Marionette	DEBUG	Register listener.js for window 2147483649
+1518557215710	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518557216605	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518557216605	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518557217310	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518557218270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518557219623	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1518557222632	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518557222871	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518557224023	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518557224027	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518557224813	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518557224814	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518557224814	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518557225620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518557227597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518557227867	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518557227943	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518557230259	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518557232781	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17541): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17541): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17541): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17541): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17541): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17541): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17541): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518557284242	geckodriver	INFO	geckodriver 0.19.1
+1518557284248	geckodriver	INFO	Listening on 127.0.0.1:38195
+1518557285396	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VOGAKp23K8VK"
+1518557286519	Marionette	INFO	Enabled via --marionette
+
+(firefox:17749): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17749): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17749): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17808): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17808): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17808): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518557290241	Marionette	INFO	Listening on port 55352
+1518557290322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518557290395	Marionette	DEBUG	Register listener.js for window 2147483649
+1518557290586	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518557291432	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518557291433	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518557292122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518557293303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518557294778	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518557294986	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518557296605	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518557296607	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518557297913	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518557297914	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518557297914	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518557298357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518557300407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518557300685	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518557303013	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518557305282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17749): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17749): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17749): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17749): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17749): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17749): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17749): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518557392310	geckodriver	INFO	geckodriver 0.19.1
+1518557392315	geckodriver	INFO	Listening on 127.0.0.1:56848
+1518557392462	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qPVHZxLp8lQD"
+1518557393717	Marionette	INFO	Enabled via --marionette
+
+(firefox:17994): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17994): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17994): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18052): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18052): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18052): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518557396897	Marionette	INFO	Listening on port 56362
+1518557397061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518557397130	Marionette	DEBUG	Register listener.js for window 2147483649
+1518557397345	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518557398245	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518557398246	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518557399544	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518557400766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518557402590	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518557402834	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518557404102	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518557404106	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518557404592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518557404593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518557404593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518557405646	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518557407881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518557408131	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518557410397	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1518557410451	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518557412732	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17994): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17994): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17994): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17994): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17994): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17994): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17994): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518558400296	geckodriver	INFO	geckodriver 0.19.1
+1518558400300	geckodriver	INFO	Listening on 127.0.0.1:51005
+1518558401441	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.N0p8XfEnirYB"
+1518558402610	Marionette	INFO	Enabled via --marionette
+
+(firefox:18914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:18971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518558406065	Marionette	INFO	Listening on port 58938
+1518558406198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518558406263	Marionette	DEBUG	Register listener.js for window 2147483649
+1518558406470	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518558407389	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518558407390	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518558408347	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518558409722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518558410884	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518558411124	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518558412295	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518558412298	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518558412855	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518558412855	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518558412856	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518558413481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518558415703	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518558416339	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518558419326	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1518558419927	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518558422299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518558424777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:18914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518558494422	geckodriver	INFO	geckodriver 0.19.1
+1518558494426	geckodriver	INFO	Listening on 127.0.0.1:36180
+1518558494589	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vIQEOinJ7GhN"
+1518558495773	Marionette	INFO	Enabled via --marionette
+
+(firefox:19137): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19137): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19137): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:19193): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:19193): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:19193): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518558499231	Marionette	INFO	Listening on port 38191
+1518558499409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518558499498	Marionette	DEBUG	Register listener.js for window 2147483649
+1518558499854	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518558500906	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518558500906	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518558501615	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518558502992	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518558504704	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518558504934	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518558506155	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518558506159	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518558506668	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518558506669	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518558506669	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518558507847	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518558509063	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518558509727	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518558511125	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518558513436	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518558515710	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:19137): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19137): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19137): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19137): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19137): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19137): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19137): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518560240069	geckodriver	INFO	geckodriver 0.19.1
+1518560240075	geckodriver	INFO	Listening on 127.0.0.1:41689
+1518560241322	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oMkWRBZsOppK"
+1518560246106	Marionette	INFO	Enabled via --marionette
+
+(firefox:20554): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20554): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20554): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:20619): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:20619): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:20619): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518560251854	Marionette	INFO	Listening on port 42760
+1518560251908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518560251976	Marionette	DEBUG	Register listener.js for window 2147483649
+1518560252024	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518560254323	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518560254324	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518560255244	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518560256899	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1518560257821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1518560258787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1518560259185	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:20554): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20554): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20554): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20554): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20554): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20554): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20554): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518560365588	geckodriver	INFO	geckodriver 0.19.1
+1518560365594	geckodriver	INFO	Listening on 127.0.0.1:52808
+1518560366751	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2fKRYhQVm7ol"
+1518560367500	Marionette	INFO	Enabled via --marionette
+
+(firefox:20793): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20793): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20793): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:20848): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:20848): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:20848): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518560370986	Marionette	INFO	Listening on port 44411
+1518560371066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518560371126	Marionette	DEBUG	Register listener.js for window 2147483649
+1518560371175	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518560372805	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518560372805	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518560373607	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518560374844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518560377597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1518560377616	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518560455061	geckodriver	INFO	geckodriver 0.19.1
+1518560455065	geckodriver	INFO	Listening on 127.0.0.1:46559
+1518560456227	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vOv9BOqDbgML"
+1518560456965	Marionette	INFO	Enabled via --marionette
+
+(firefox:20997): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20997): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20997): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:21050): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:21050): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:21050): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518560461898	Marionette	INFO	Listening on port 60186
+1518560461947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518560462038	Marionette	DEBUG	Register listener.js for window 2147483649
+1518560462284	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518560463759	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518560463759	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518560464795	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518560470743	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+
+(firefox:20997): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20997): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20997): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20997): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20997): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20997): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20997): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20793): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20793): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20793): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20793): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20793): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20793): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20793): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518560659818	geckodriver	INFO	geckodriver 0.19.1
+1518560659822	geckodriver	INFO	Listening on 127.0.0.1:32772
+1518560660983	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9sFmgrlUZpK9"
+1518560662610	Marionette	INFO	Enabled via --marionette
+
+(firefox:21329): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21329): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21329): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:21391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:21391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:21391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518560666303	Marionette	INFO	Listening on port 49647
+1518560666335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518560666422	Marionette	DEBUG	Register listener.js for window 2147483649
+1518560666580	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518560667961	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518560667962	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518560669379	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518560670855	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518560671946	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+
+(firefox:21329): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21329): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21329): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21329): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21329): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21329): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21329): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518561329950	geckodriver	INFO	geckodriver 0.19.1
+1518561329953	geckodriver	INFO	Listening on 127.0.0.1:49708
+1518561330115	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Skrwxo0vqPeO"
+1518561331436	Marionette	INFO	Enabled via --marionette
+
+(firefox:21971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22028): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22028): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22028): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518561334664	Marionette	INFO	Listening on port 53185
+1518561334876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518561334939	Marionette	DEBUG	Register listener.js for window 2147483649
+1518561335274	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518561335934	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518561335935	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518561336708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518561337799	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518561339205	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:21971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518561375744	geckodriver	INFO	geckodriver 0.19.1
+1518561375749	geckodriver	INFO	Listening on 127.0.0.1:42288
+1518561376908	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1BKxH6376A57"
+1518561377624	Marionette	INFO	Enabled via --marionette
+
+(firefox:22150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22204): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22204): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22204): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518561380776	Marionette	INFO	Listening on port 50536
+1518561380941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518561381029	Marionette	DEBUG	Register listener.js for window 2147483649
+1518561381089	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518561381728	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518561381728	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518561382270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518561383121	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518561384614	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518561384855	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518561386393	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518561386396	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518561387173	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518561387174	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518561387174	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518561387836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518561390973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518561391257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518561391337	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518561393633	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518561396359	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:22150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518561480989	geckodriver	INFO	geckodriver 0.19.1
+1518561480992	geckodriver	INFO	Listening on 127.0.0.1:58251
+1518561481216	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WtlMaCXnzCkS"
+1518561483955	Marionette	INFO	Enabled via --marionette
+
+(firefox:22388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22447): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22447): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22447): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518561488204	Marionette	INFO	Listening on port 49296
+1518561488300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518561488365	Marionette	DEBUG	Register listener.js for window 2147483649
+1518561488519	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518561489252	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518561489253	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518561489921	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518561490935	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518561492492	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518561493315	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518561493899	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518561493902	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518561494334	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518561494334	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518561494335	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518561495130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518561497433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518561497547	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518561497632	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518561499930	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518561502286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518561572094	geckodriver	INFO	geckodriver 0.19.1
+1518561572099	geckodriver	INFO	Listening on 127.0.0.1:42913
+1518561572296	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Hc8vrDpV2h0T"
+1518561574112	Marionette	INFO	Enabled via --marionette
+
+(firefox:22599): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22599): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22599): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22660): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22660): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22660): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518561582552	Marionette	INFO	Listening on port 39001
+1518561582718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518561582804	Marionette	DEBUG	Register listener.js for window 2147483649
+1518561583468	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518561584213	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518561584213	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518561585910	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518561587051	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518561588026	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518561588256	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518561589849	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518561589853	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518561590340	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518561590341	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518561590341	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518561590915	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518561596235	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1518561596775	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518561599309	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518561603364	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:22599): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22599): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22599): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22599): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22599): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22599): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22599): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518561795492	geckodriver	INFO	geckodriver 0.19.1
+1518561795500	geckodriver	INFO	Listening on 127.0.0.1:50678
+1518561796766	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8uNfsMHzuAh0"
+1518561802437	Marionette	INFO	Enabled via --marionette
+
+(firefox:22924): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22924): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22924): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22993): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22993): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22993): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518561809697	Marionette	INFO	Listening on port 56210
+1518561809806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518561809886	Marionette	DEBUG	Register listener.js for window 2147483649
+1518561810561	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518561811992	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518561811992	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518561813287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518561814425	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518561816713	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518561817000	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518561818362	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518561818366	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518561818854	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518561818855	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518561818855	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518561819765	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518561827348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518561827602	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518561827708	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518561830739	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518561838874	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+ExceptionHandler::GenerateDump cloned child 23147
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+(firefox:22388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518562544005	geckodriver	INFO	geckodriver 0.19.1
+1518562544091	geckodriver	INFO	Listening on 127.0.0.1:33210
+1518562545268	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HVgga5bdamSe"
+1518562549982	Marionette	INFO	Enabled via --marionette
+
+(firefox:23609): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23609): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23609): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:23673): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:23673): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:23673): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518562556393	Marionette	INFO	Listening on port 59519
+1518562556458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518562556522	Marionette	DEBUG	Register listener.js for window 2147483649
+1518562589419	geckodriver	INFO	geckodriver 0.19.1
+1518562589422	geckodriver	INFO	Listening on 127.0.0.1:48348
+1518562590577	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0ZR1rBF7GfaE"
+1518562591320	Marionette	INFO	Enabled via --marionette
+
+(firefox:23779): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23779): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23779): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:23834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:23834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:23834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518562594465	Marionette	INFO	Listening on port 41768
+1518562594657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518562594752	Marionette	DEBUG	Register listener.js for window 2147483649
+1518562594839	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518562595526	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518562595526	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518562596446	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518562597503	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518562599213	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518562599456	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518562601351	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518562601355	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518562601795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518562601798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518562601798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518562603076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518562605721	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518562606040	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518562606138	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518562608688	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518562611953	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518562700588	geckodriver	INFO	geckodriver 0.19.1
+1518562700609	geckodriver	INFO	Listening on 127.0.0.1:46199
+1518562701852	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QN1y6PNzNDdG"
+1518562711447	Marionette	INFO	Enabled via --marionette
+
+(firefox:24013): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24013): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24013): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:24085): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:24085): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:24085): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518562725338	Marionette	INFO	Listening on port 56926
+1518562725745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518562725815	Marionette	DEBUG	Register listener.js for window 2147483649
+1518562727236	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518562728267	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518562728268	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518562729818	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518562731675	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518562733596	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518562733876	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518562735532	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518562735535	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518562736047	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518562736048	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518562736049	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518562736350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518562739812	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518562745138	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518562747714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518562750731	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518563102972	geckodriver	INFO	geckodriver 0.19.1
+1518563102984	geckodriver	INFO	Listening on 127.0.0.1:54922
+1518563104256	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pLcukwuxnJr4"
+1518563112010	Marionette	INFO	Enabled via --marionette
+
+(firefox:24442): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24442): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24442): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:24510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:24510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:24510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518563118860	Marionette	INFO	Listening on port 54552
+1518563118956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518563119040	Marionette	DEBUG	Register listener.js for window 2147483649
+1518563119708	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518563120335	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518563120335	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518563121884	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518563123079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518563124290	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518563124544	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518563126726	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518563126731	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518563127192	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518563127196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518563127197	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518563128202	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518563131984	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1518563132323	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518563132423	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518563134955	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518563139200	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518563212631	geckodriver	INFO	geckodriver 0.19.1
+1518563212654	geckodriver	INFO	Listening on 127.0.0.1:55663
+1518563213882	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.79owgkWTUsxP"
+1518563220997	Marionette	INFO	Enabled via --marionette
+
+(firefox:24680): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24680): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24680): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:24753): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:24753): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:24753): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518563229424	Marionette	INFO	Listening on port 47353
+1518563229533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518563229603	Marionette	DEBUG	Register listener.js for window 2147483649
+1518563230399	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518563231277	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518563231277	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518563232167	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518563233249	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518563236494	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518563236780	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518563237997	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518563238001	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518563239268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518563239268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518563239269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518563239516	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518563242400	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518563243827	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518563243961	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518563246452	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518563249038	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518563378071	geckodriver	INFO	geckodriver 0.19.1
+1518563378122	geckodriver	INFO	Listening on 127.0.0.1:54461
+1518563379334	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QD8jYgpACC3n"
+1518563391275	Marionette	INFO	Enabled via --marionette
+
+(firefox:24967): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24967): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24967): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:25040): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:25040): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:25040): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518563399332	Marionette	INFO	Listening on port 51688
+1518563399630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518563399710	Marionette	DEBUG	Register listener.js for window 2147483649
+1518563400655	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518563401440	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518563401441	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518563402601	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518563403708	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518563405016	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1518563405684	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518563405938	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518563407562	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518563407565	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518563408347	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518563408348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518563408349	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518563409712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518563412744	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518563413278	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518563413532	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518563416039	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518563418944	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518563547475	geckodriver	INFO	geckodriver 0.19.1
+1518563547526	geckodriver	INFO	Listening on 127.0.0.1:52151
+1518563548757	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xhIvawl96j4P"
+1518563559915	Marionette	INFO	Enabled via --marionette
+
+(firefox:25251): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25251): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25251): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:25326): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:25326): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:25326): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518563566855	Marionette	INFO	Listening on port 55694
+1518563566911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518563566994	Marionette	DEBUG	Register listener.js for window 2147483649
+1518563567108	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518563568398	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518563568399	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518563570704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518563572076	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518563573174	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518563573440	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518563574979	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518563574983	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518563575320	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518563575320	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518563575321	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518563575776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518563578639	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1518563579316	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1518563585759	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518563588178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1518563588178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1518563588349	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518563590672	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518564951947	geckodriver	INFO	geckodriver 0.19.1
+1518564951984	geckodriver	INFO	Listening on 127.0.0.1:55773
+1518564953315	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.f7a1mBH8PDjC"
+1518564970624	Marionette	INFO	Enabled via --marionette
+
+(firefox:26359): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:26359): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:26359): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:26442): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:26442): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:26442): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518564990487	Marionette	INFO	Listening on port 34694
+1518564990673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518564990733	Marionette	DEBUG	Register listener.js for window 2147483649
+1518564993191	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518564994188	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518564994189	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518564997472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518564999251	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518565006550	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518565006768	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518565008380	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518565008384	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518565008758	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518565008847	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518565008847	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518565009567	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518565016923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518565017144	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518565021674	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518565024390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518565026880	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518565101587	geckodriver	INFO	geckodriver 0.19.1
+1518565101599	geckodriver	INFO	Listening on 127.0.0.1:37177
+1518565102872	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oeVc6LIlpSeZ"
+1518565111282	Marionette	INFO	Enabled via --marionette
+
+(firefox:26691): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:26691): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:26691): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:26759): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:26759): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:26759): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518565122612	Marionette	INFO	Listening on port 39287
+1518565122639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518565122699	Marionette	DEBUG	Register listener.js for window 2147483649
+1518565124448	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518565125681	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518565125681	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518565127096	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518565128403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518565130230	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518565130568	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518565131769	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518565131773	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518565133623	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518565133624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518565133624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518565134075	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518565145156	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518565145720	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518565147812	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518565150288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518565154259	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518565555039	geckodriver	INFO	geckodriver 0.19.1
+1518565555070	geckodriver	INFO	Listening on 127.0.0.1:41824
+1518565556313	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bNRDTeDPGxhZ"
+1518565561849	Marionette	INFO	Enabled via --marionette
+
+(firefox:27189): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:27189): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:27189): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:27259): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:27259): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:27259): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1518565570616	Marionette	INFO	Listening on port 38037
+1518565570921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518565571014	Marionette	DEBUG	Register listener.js for window 2147483649
+1518565572058	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518565573079	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518565573080	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518565574217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1518565575416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518565577454	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518565577694	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1518565579163	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1518565579165	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1518565580313	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518565580314	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1518565580315	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1518565580324	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+Error! Fail to load fglrx kernel module! Maybe you can switch to root user to load kernel module directly
+libGL error: open uki failed (Operation not permitted)
+libGL error: reverting to (slow) indirect rendering
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/HAHWNXx6C5M.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 0 is < 8!
+* Exhausted GL driver options.
+1518565587242	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1518565588400	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518565589493	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1518565592208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518565597113	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
